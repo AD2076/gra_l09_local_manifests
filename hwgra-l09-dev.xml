@@ -10,7 +10,7 @@
 remote="github" />
   
   <!-- TWRP -->
-  <project name="nexolight/gra_l09_team_win_recovery_project" path="bootable/recovery-twrp" revision="android-6.0" remote="github" />
+  <project name="ad2076/android_bootable_recovery" path="bootable/recovery-twrp" revision="android-6.0" remote="github" />
 
   <!-- BusyBox -->
   <project name="nexolight/gra_l09_busybox" path="external/busybox" remote="github" revision="master" />  
