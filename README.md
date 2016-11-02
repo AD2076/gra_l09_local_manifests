@@ -2,6 +2,6 @@
 ## Instrcutions
 - repo init -u git://github.com/CyanogenMod/android.git -b cm-14.1
 - repo sync
-- repo init -b stable/cm-14.1
+- repo init -b cm-14.1
 - git clone gra_l09_local_manifests .repo/local_manifests
 - repo sync --force-sync (use python 2.7!)
