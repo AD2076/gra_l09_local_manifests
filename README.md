@@ -1,4 +1,6 @@
 # Huawei Ascend P8 (GRA-L09) CM14.1 Development Manifest
+This is just an experiment to build 14.1 instead of 13.0
+it uses same kernel and device tree from nexolight (https://github.com/Nexolight)
 ## Instrcutions
 - repo init -u git://github.com/CyanogenMod/android.git -b cm-14.1
 - repo sync
